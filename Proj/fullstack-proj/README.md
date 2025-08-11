@@ -18,6 +18,7 @@ This is a full-stack AWS deployment project built with Python (Flask) for managi
  - Optional domain setup via Route 53 and alert notify using SNS
 
 
+
 ### Tech Stack
 
 
@@ -36,3 +37,4 @@ This is a full-stack AWS deployment project built with Python (Flask) for managi
 
 
 ----------------------------------------------------------------
+

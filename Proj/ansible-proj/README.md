@@ -1,6 +1,7 @@
 ## Ansible-proj
 
 
+
 ### Create Ubuntu-ec2 and install Ansible
 
 ```
@@ -108,3 +109,4 @@ sudo ansible-playbook myansible_playbook.yml
 open your webapp using server-pub-ip
 
 -----------------------------------------------
+

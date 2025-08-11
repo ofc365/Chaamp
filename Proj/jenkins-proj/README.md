@@ -47,6 +47,7 @@ Visit in browser: `http://<EC2-public-IP>`
 
 
 
+
 # jenkins-proj (Freestyle - on Docker)
 ------------------------------------------------
 
@@ -153,5 +154,6 @@ Visit in browser: `http://<EC2-public-IP>:8082`
 (If you want to set up automation, set-up github jenkins integration but Have to terminate old container)
 
 -----------------------------------------------------------
+
 
 

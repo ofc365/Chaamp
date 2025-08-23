@@ -37,6 +37,5 @@ https://developer.hashicorp.com/terraform/install#windows
 
 Go to c-drive  ---->   program files   --->  create a folder as `terraform` and extract your downloaded `TF` here
 
-( go to your terraform folder and check `terraform exe file` )
 
 open your terminal box or command prompt and run `terraform --version`

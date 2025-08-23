@@ -1,5 +1,5 @@
 ## terraform install
-========================
+
 
 👉 `https://developer.hashicorp.com/terraform/install`
 
@@ -18,8 +18,6 @@ terraform --version
 
 #### 2. ON UBUNTU
 
-
-Go to aws and create an ubuntu-ec2-instance, connect it
 
 ```
 wget -O - https://apt.releases.hashicorp.com/gpg | sudo gpg --dearmor -o /usr/share/keyrings/hashicorp-archive-keyring.gpg

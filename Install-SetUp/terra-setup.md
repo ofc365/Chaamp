@@ -6,7 +6,6 @@
 #### 1. ON LINUX
 
 
-Go to aws and create a Linux-ec2-instance, connect it
 
 ```
 sudo yum install -y yum-utils shadow-utils

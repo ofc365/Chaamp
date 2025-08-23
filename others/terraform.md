@@ -1,6 +1,7 @@
 # Terraform
 
-### Infrastructure as Code (IaC) :- 
+### Infrastructure as Code (IaC) 
+
 
 Infrastructure as Code (IaC) is an approach that involves managing and provisioning infrastructure resources using code, just like you would manage software code. 
 
@@ -12,7 +13,7 @@ When you use IaC, you can treat your infrastructure as a piece of code that can 
 
 It brings the benefits of software development practices to infrastructure management, such as collaboration, repeatability, and automation.
 
-### What is Terraform :- 
+### What is Terraform 
 
 Terraform is an open-source infrastructure as code (IaC) tool developed by HashiCorp. 
 
@@ -20,7 +21,7 @@ It enables you to define and provision infrastructure resources in a declarative
 
 With Terraform, you can describe your desired infrastructure configuration using a simple and human-readable language called HashiCorp Configuration Language (HCL) or JSON.
 
-### Why do we need Terraform :-
+### Why do we need Terraform 
 
 `Automating the process `: Terraform automates the creation and management of infrastructure resources, reducing manual effort and the risk of errors.
 
@@ -35,7 +36,7 @@ With Terraform, you can describe your desired infrastructure configuration using
 `Plan and Apply Workflow` : Terraform's plan and apply workflow allows users to preview and validate infrastructure changes before applying them, ensuring control and reducing the chance of unintended consequences.
 
 
-### Important terminologies of Terraform :-
+### Important terminologies of Terraform 
 
 `1.	Providers` : Providers are plugins in Terraform that interact with various infrastructure platforms such as AWS, Azure, or Google Cloud. They handle the API interactions and resource management for the specific platform. Providers are responsible for creating, updating, and deleting resources.
 
@@ -72,3 +73,6 @@ variable "region"{
 `4.	Modules` : Modules are self-contained, reusable components that encapsulate Terraform configurations. They allow for code organization and reusability by defining a set of resources and variables.
 
 `5.	Outputs` : Outputs in Terraform allow you to retrieve and display information about the provisioned infrastructure after applying the configuration. They can be used for informational purposes or to pass values to other configurations. 
+
+
+--------------------------------

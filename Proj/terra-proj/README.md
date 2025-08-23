@@ -23,7 +23,7 @@ terraform {
 
 `Open once again :- vi main.tf`
 
-Follow this link to create Access key & Secret access key `https://us-east-1.console.aws.amazon.com/iam/home?region=us-east-1#/security_credentials/access-key-wizard`
+
 
 ```
 # Configure the AWS Account
